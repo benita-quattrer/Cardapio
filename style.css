@@ -1,0 +1,26 @@
+#menu ul li a:hover{
+    background-color: #5C4444;
+    color: #fff;
+}
+#cardapio {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-top: 80px;
+}
+
+#cardapio img {
+    padding: 5px;
+    width: 300px;
+    height: 200px;
+    border-radius: 50px
+}
+
+#item {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    color: #fff;
+    background-color: rgba (0, 0, 0, 0.85);
+    margin: 10px
+}
